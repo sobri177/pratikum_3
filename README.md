@@ -1,5 +1,7 @@
 # pratikum_3
 Sobri/312510236
+
+
 a = int(input("Masukkan bilangan pertama: "))
 b = int(input("Masukkan bilangan kedua: "))
 c = int(input("Masukkan bilangan ketiga: "))
